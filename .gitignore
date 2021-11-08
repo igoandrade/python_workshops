@@ -8,6 +8,7 @@ intrinio_api_key.txt
 # Ignore ipynb_checkpoints
 **/.ipynb_checkpoints/
 
+# Ignore 
 .git
 
 # Ignore pasta 'tutoriais'
